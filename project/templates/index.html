@@ -27,7 +27,7 @@
             const result = await response.json();
             const resultsDiv = document.getElementById('results');
             if (result.prediction) {
-                resultsDiv.innerHTML = `<h2>Predicción para ${result.week}:</h2><p>${result.prediction} casos</p>`;
+                resultsDiv.innerHTML = `<h2>Predicción para ${result.date}:</h2><p>${result.prediction} casos</p>`;
             } else {
                 resultsDiv.innerHTML = `<h2>Error:</h2><p>${result.error}</p>`;
             }
