@@ -1,6 +1,6 @@
 # TP2 - Análisis Predictivo Avanzado
 
-Asegurarse de tener descargada el arrests.csv: https://drive.google.com/drive/folders/10pLrTDJNa9zM3rLGjQ69MPzspsfoHNBj?usp=drive_link y ubicarlo en la carpeta raiz/data
+Asegurarse de tener descargada el arrests.csv: https://drive.google.com/file/d/1XSRutIr2WHNVUhh159SWbf69Zmozc2Pf/view?usp=drive_link y ubicarlo en la carpeta raiz/data
 
 El archiv raiz contiene los archivos correspondientes al modelo ARIMA y PROPHET que serian los modelos finales que se presentan. Correr primero preprocesamiento.ipynb, luego ST.ipynb.
 
